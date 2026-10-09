@@ -2,3 +2,8 @@ CITA 2 https://xykt-fix.github.io/cardlivetoken/bbs2.stream/index.m3u8
 CITA 3 https://xykt-fix.github.io/cardlivetoken/bbs3.stream/index.m3u8
 CITA 4 https://xykt-fix.github.io/cardlivetoken/bbs4.stream/index.m3u8
 CITA 5 https://xykt-fix.github.io/cardlivetoken/bbs5.stream/index.m3u8
+Animax https://xykt-fix.github.io/cardlivetoken/animax.stream/index.m3u8
+BPDOGS https://xykt-fix.github.io/cardlivetoken/petclub.stream/index.m3u8
+BPkids https://xykt-fix.github.io/cardlivetoken/master.stream/index.m3u8
+Cbeebies https://xykt-fix.github.io/cardlivetoken/cbeebies.stream/index.m3u8
+CITA FUN https://xykt-fix.github.io/cardlivetoken/citafunasia.stream/index.m3u8
