@@ -1,0 +1,4 @@
+CITA 2 https://xykt-fix.github.io/cardlivetoken/bbs2.stream/index.m3u8
+CITA 3 https://xykt-fix.github.io/cardlivetoken/bbs3.stream/index.m3u8
+CITA 4 https://xykt-fix.github.io/cardlivetoken/bbs4.stream/index.m3u8
+CITA 5 https://xykt-fix.github.io/cardlivetoken/bbs5.stream/index.m3u8
