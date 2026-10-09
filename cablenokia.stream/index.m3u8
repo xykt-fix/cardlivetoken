@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:20
+#EXT-X-MEDIA-SEQUENCE:92870005
+#EXTINF:20,
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox-avc1_3000000=7-mp4a_256000=5-begin=3714800170000000-dur=200000000-seq=92870005.ts
+#EXTINF:20,
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox-avc1_3000000=7-mp4a_256000=5-begin=3714800370000000-dur=200000000-seq=92870006.ts
